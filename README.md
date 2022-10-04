@@ -9,6 +9,7 @@
 
 ### Run
 
-    ```sh
-    py main.py
-    ```
+- Run the programm
+  ```sh
+  py main.py
+  ```
