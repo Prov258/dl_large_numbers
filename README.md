@@ -1,6 +1,14 @@
-# dl_large_numbers
+# Large numbers
 
-- npm
+### Installation
+
+- Clone the repo
   ```sh
-  py main.py
+  git clone https://github.com/Prov258/dl_large_numbers.git
   ```
+
+### Run
+
+    ```sh
+    py main.py
+    ```
